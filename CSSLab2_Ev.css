@@ -1,0 +1,38 @@
+.main {
+    font-family:"Times New Roman";
+}
+.marq {
+    padding-top: 30px;
+    padding-bottom: 30px;
+    background-color: rgb(177, 201, 228);
+}
+.marqFonts {
+    font-size:36px;
+    font-weight:bold;
+    color:white;
+    text-align:center;
+    letter-spacing: 5px;
+}
+.marqDir {
+    font-size: 25px;
+    text-align:center;
+    color: brown;
+    word-spacing: 8px;
+}
+p{
+    font-size: large;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-style: oblique;
+    line-height: 2em;
+    text-indent: 30px;
+    text-align: justify;
+    text-shadow: .2em .2em .1em rgb(240, 201, 201);
+}
+.listStyle{
+    font-size:x-large;
+    list-style-type:lower-roman;
+    list-style-position: outside;
+    list-style-image: url(/img/logoList.JPG);
+    line-height: 2.2em;
+    
+}
